@@ -1,0 +1,16 @@
+.settings {
+  padding-top: 0px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.settings .header {
+  text-align: center;
+}
+
+.settings-btn {
+  margin-right: 15px;
+}
+.settings .active {
+  background-color: #1a5d7d;
+}
