@@ -1,2 +1,2 @@
 На 16 днів погода є платною.
-npm install 
+# npm install 
